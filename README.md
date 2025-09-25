@@ -17,7 +17,7 @@
 
 </div>
 
-![头像](image/avatar.jpg)
+![头像](v2-73b8307b2db44c617f4e8515ce67dd39_1440w.webp)  
 
 ![Visitor Count](https://profile-counter.glitch.me/yzhhhhhhhhx/count.svg)
 
